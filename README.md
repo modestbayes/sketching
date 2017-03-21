@@ -1,6 +1,4 @@
-# sketching
-
-Randomized projection for constrained regression
+# Randomized projection for constrained regression
 
 ## Things to implement
 * Leverage sampling
