@@ -2,11 +2,15 @@
 
 Tensorflow implementation of https://arxiv.org/pdf/1411.0347v1.pdf
 
-## Things to code
-* Subsampling
-* Hadamard projection
-* Logistic regression
+## Regression models
+* Linear regression
+* Logistic regression (unstable numerically)
 
-## Figures to create
-* Mean squared error ratio vs projection dimension
-* Hessian sketching vs gradient descent paths
+## Projection methods
+* Subsampling
+* Gaussian noise
+* Hadamard projection
+
+## Evaluation criteria
+* Mean squared error ratio
+* Gradient descent paths
